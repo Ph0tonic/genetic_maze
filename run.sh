@@ -1,1 +1,1 @@
-sudo python3.6 -m jupyter notebook ia_labyrinth.ipynb --allow-root
+sudo python3 -m jupyter notebook ia_labyrinth.ipynb --allow-root
