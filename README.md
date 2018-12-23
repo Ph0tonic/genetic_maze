@@ -1,4 +1,4 @@
-# genetic_maze
+# Genetic algorithm to solve maze
 Genetic IA to solve a maze
 
 ## Author
