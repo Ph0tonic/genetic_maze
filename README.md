@@ -5,4 +5,4 @@ Genetic IA to solve a maze
 - Bastien Wermeille
 
 ## Documentation
-Everything is in ia_labyrinth
+Everything is in [ia_labyrinth.ipynb](https://github.com/Ph0tonic/genetic_maze/blob/master/ia_labyrinth.ipynb)
